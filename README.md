@@ -15,7 +15,7 @@ by adding `conceal` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:conceal, "~> 0.1.0"}
+    {:conceal, "~> 0.1.1"}
   ]
 end
 ```
