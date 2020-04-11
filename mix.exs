@@ -26,14 +26,14 @@ defmodule Conceal.MixProject do
     [
       maintainers: ["Thiago Santos"],
       licenses: ["Apache 2.0"],
-      links: %{"GitHub" => "https://github.com/thiamsantos/concel"}
+      links: %{"GitHub" => "https://github.com/thiamsantos/conceal"}
     ]
   end
 
   defp docs do
     [
       main: "Conceal",
-      source_url: "https://github.com/thiamsantos/concel"
+      source_url: "https://github.com/thiamsantos/conceal"
     ]
   end
 
